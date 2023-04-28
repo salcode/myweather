@@ -1,0 +1,1 @@
+rsync -azv --exclude '.*' --exclude 'deploy' ./ ferrarello:www/ferrarello.com/public_html/wp-content/plugins/myweather
