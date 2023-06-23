@@ -8,7 +8,7 @@ The weather data is cached using a WordPress transient.
 
 In addition to installing and activating this plugin, you'll need to set the following PHP constants (this can be done in `wp-config.php` at the root of the WordPress site).
 
-- `SF_MY_WEATHER_API_KEY` you personal API key from openweathermap.org
+- `SF_MY_WEATHER_API_KEY` your personal API key from openweathermap.org
 - `SF_MY_WEATHER_LAT` the latitude of the forecast location
 - `SF_MY_WEATHER_LON` the longitude of the forecast location
 
